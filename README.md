@@ -30,7 +30,9 @@ In addition to the functions of the well-known QSC-QSYS Launcher, it has the fol
 - Navigate to the location of your "QSYS-Launcher.exe" and select it. Make sure to check "Always Open With" to allow the qsys files to open with the launcher every time.
 
 - To open any file from that point simply double click the file and it will prompt you to select which version of Q-Sys Designer to use from your installed versions.
-[!IMPORTANT]  
+- 
+| :exclamation:  important:   |
+|-----------------------------------------|
 - If you install a new version of QSYS Designer, you may need to repeat the ‘Open with’ process because the installer will link the *.qsys files to the latest version of Designer again.
 
 - If you decide to compile your own - I used auto-py-to-exe for this. (you may need to adjust the path to the icon file as auto-py-to-exe does not like relative paths)
