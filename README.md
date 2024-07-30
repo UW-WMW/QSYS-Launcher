@@ -9,7 +9,8 @@ So I decided to rewrite the tool from scratch.
  
 ## Instructions
 - [Download the latest release from GitHub](https://github.com/UW-WMW/QSYS-Launcher/releases)
-- To use the application simply save the "QSYS-Launcher.exe" to the location of your choice. (This is considered a portable installation)
+- To use the application simply save the "QSYS-Launcher.exe" to the location of your choice.
+(This is considered a portable installation)
 - Right click on a ".qsys" file and select open with.
 - Navigate to the location of your "QSYS-Launcher.exe" and select it. Make sure to check "Always Open With" to allow the qsys files to open with the launcher every time.
 - To open any file from that point simply double click the file and it will prompt you to select which version of Q-Sys Designer to use from your installed versions.
