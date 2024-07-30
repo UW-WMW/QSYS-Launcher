@@ -47,4 +47,4 @@ At first I wanted to make a fork to improve it a bit, but then I realised that t
 
 that he used is no longer free for commercial use, but costs $99.
 
-So I decided to rewrite the tool from scratch.
+So I decided to rewrite the tool from scratch using tkinter for Tcl/Tk for the UI.
