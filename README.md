@@ -12,7 +12,7 @@
 
 Zach Lisko (mckay115).
 
-His QSC-QSYS Launcher was the first tool I used.
+His [QSC-QSYS Launcher](https://github.com/mckay115/QSC-QSYS-Launcher) was the first tool I used. was the first tool I used.
 
 At first I wanted to make a fork to improve it a bit, but then I realised that the "PySimpleGUI" library
 
