@@ -1,6 +1,6 @@
 # QSYS Designer Launcher
 
-[Screenshot](https://github.com/UW-WMW/QSYS-Launcher/blob/main/screenshots/screen2.PNG)
+[Screenshot](screenshots/screen2.PNG)
   
 
 ## Thanks to:
