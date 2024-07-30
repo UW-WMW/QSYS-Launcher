@@ -1,6 +1,11 @@
 # QSYS Designer Launcher
 
-[Screenshot](screenshots/screen2.PNG)
+<!--
+![screenshot](screenshots/screen2.PNG?raw=true)
+ -->
+ <p align="center">
+  <img src="screenshots/screen2.PNG?raw=true" />
+</p>
   
 
 ## Thanks to:
