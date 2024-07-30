@@ -9,7 +9,7 @@
 
 ## Project Goals:
 
-In addition to the functions of the well-known QSC-QSYS Launcher, it has the following features
+In addition to the functions of the well-known [QSC-QSYS Launcher](https://github.com/mckay115/QSC-QSYS-Launcher), it has the following features
 
 - it shows not only the Designer versions from "PROGRAMFILES", but also from "PROGRAMFILES(x86)" (32 bit versions below V.6.0)
 
@@ -39,9 +39,9 @@ In addition to the functions of the well-known QSC-QSYS Launcher, it has the fol
 
 ## Thanks to:
 
-Zach Lisko (mckay115).
+Zach Lisko ([mckay115](https://github.com/mckay115).
 
-His [QSC-QSYS Launcher](https://github.com/mckay115/QSC-QSYS-Launcher) was the first tool I used.
+His QSC-QSYS Launcher was the first tool I used.
 
 At first I wanted to make a fork to improve it a bit, but then I realised that the "PySimpleGUI" library
 
