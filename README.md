@@ -11,7 +11,7 @@
 
 In addition to the functions of the well-known QSC-QSYS Launcher, it has the following features
 
-- it shows not only the Designer versions from "PROGRAMFILES", but also from "PROGRAMFILES(x86)" (32 bit version below V.6.0)
+- it shows not only the Designer versions from "PROGRAMFILES", but also from "PROGRAMFILES(x86)" (32 bit versions below V.6.0)
 
 - it lists the files in the correct numerical order (9.10 comes after 9.9 instead of 9.1)
 
