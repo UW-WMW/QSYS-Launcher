@@ -5,7 +5,7 @@ Zach Lisko (mckay115).
 His QSC-QSYS Launcher was the first tool I used.
 At first I wanted to make a fork to improve it a bit, but then I realised that the "PySimpleGUI" library
 that he used is no longer free for commercial use, but costs $99.
-So I decided to rewrite the tool from scratch.
+So I decided to rewrite the tool from scratch, using tkinter (Tcl/Tk) for the UI
  
 ## Instructions
 - [Download the latest release from GitHub](https://github.com/UW-WMW/QSYS-Launcher/releases)
