@@ -9,7 +9,7 @@
 
 ## Project Goals:
 
-In addition to the functions of the well-known [QSC-QSYS Launcher](https://github.com/mckay115/QSC-QSYS-Launcher), it has the following features
+In addition to the functions of the well-known [QSC-QSYS Launcher](https://github.com/mckay115/QSC-QSYS-Launcher), it has the following features:
 
 - it shows not only the Designer versions from "PROGRAMFILES", but also from "PROGRAMFILES(x86)" (32 bit versions below V.6.0)
 
