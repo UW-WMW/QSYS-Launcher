@@ -39,7 +39,7 @@ In addition to the functions of the well-known [QSC-QSYS Launcher](https://githu
 
 ## Thanks to:
 
-Zach Lisko ([mckay115](https://github.com/mckay115).
+Zach Lisko ([mckay115](https://github.com/mckay115)).
 
 His QSC-QSYS Launcher was the first tool I used.
 
