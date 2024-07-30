@@ -6,19 +6,18 @@
  <p align="center">
   <img src="screenshots/screen2.PNG?raw=true" />
 </p>
-  
 
-## Thanks to:
+## Project Goals:
 
-Zach Lisko (mckay115).
+In addition to the functions of the well-known QSC-QSYS Launcher, it has the following features
 
-His [QSC-QSYS Launcher](https://github.com/mckay115/QSC-QSYS-Launcher) was the first tool I used.
+- it shows not only the Designer versions from "PROGRAMFILES", but also from "PROGRAMFILES(x86)" (32 bit version below V.6.0)
 
-At first I wanted to make a fork to improve it a bit, but then I realised that the "PySimpleGUI" library
+- it lists the files in the correct numerical order (9.10 comes after 9.9 instead of 9.1)
 
-that he used is no longer free for commercial use, but costs $99.
+- When launched with a *.qsys file as a parameter, it will display the version the file was created with to help you decide which Designer version to open.
 
-So I decided to rewrite the tool from scratch.
+- I have removed the function to also display a link to the UCI viewer and the the Administrator, because I very rarely need this
 
 ## Instructions
 
@@ -36,16 +35,14 @@ So I decided to rewrite the tool from scratch.
 
 - If you decide to compile your own - I used auto-py-to-exe for this. (you may need to adjust the path to the icon file as auto-py-to-exe does not like relative paths)
 
-  
+## Thanks to:
 
-## Project Goals:
+Zach Lisko (mckay115).
 
-In addition to the functions of the well-known QSC-QSYS Launcher, it has the following features
+His [QSC-QSYS Launcher](https://github.com/mckay115/QSC-QSYS-Launcher) was the first tool I used.
 
-- it shows not only the Designer versions from "PROGRAMFILES", but also from "PROGRAMFILES(x86)" (32 bit version below V.6.0)
+At first I wanted to make a fork to improve it a bit, but then I realised that the "PySimpleGUI" library
 
-- it lists the files in the correct numerical order (9.10 comes after 9.9 instead of 9.1)
+that he used is no longer free for commercial use, but costs $99.
 
-- When started with a *.qsys file as parameter, it shows the version the file was created with, so you can better decide which Designer version to open with.
-
-- I have removed the function to also display a link to the UCI viewer and the the Administrator, because I very rarely need this
+So I decided to rewrite the tool from scratch.
