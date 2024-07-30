@@ -66,7 +66,7 @@ designer_executables.sort(key=lambda x: parseVersion(re.search(r"\d+\.\d+", os.p
 root = tk.Tk()
 root.title("Q-SYS Launcher")
 root.minsize(300, 100)
-root.iconbitmap('d:/Projekte/#WMW/Python/QSYS-Launcher/Icon.ico')
+root.iconbitmap('Res/Icon.ico')
 
 if version_number:
     version_label = ttk.Label(root, text=f"Version from file: {version_number}", font=("Arial", 14))
